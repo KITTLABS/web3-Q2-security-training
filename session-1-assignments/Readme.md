@@ -1,8 +1,12 @@
 # Ethernaut Capture the Flag (CTF)
 
-# Tools to help with CTF
 
 # Assignments
+
+## (Optional) Solidity challenges
+If you want to improve your understanding of Solidty in general before attempting a CTF this game is built to help you learn solidity:
+
+https://cryptozombies.io/en/course/
 
 ## Ethernaut Level 0
 
