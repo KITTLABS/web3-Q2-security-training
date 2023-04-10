@@ -16,11 +16,12 @@ Please create a pull request with:
 https://ethernaut.openzeppelin.com/level/0x2a24869323C0B13Dff24E196Ba072dC790D52479
 
 ## Optional Assignment
-1) Read through the following audit report and write a detailed description about one of the vulnerabilities. Attack vector, exploit, how to prevent the exploit:
+1) Read through the following audit report and write a detailed description about one of the vulnerabilities on this issue: https://github.com/KITTLABS/web3-Q2-security-training/issues/1
+
 
 https://code4rena.com/reports/2022-11-canto
 
-Submit audit report findings on github issue.
+
 
 
 ## (Optional) Solidity challenges
