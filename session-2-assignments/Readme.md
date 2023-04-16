@@ -10,7 +10,7 @@ Please create a pull request with:
 - The testnet you are using
 - Any code you wrote for your exploit
 
-## Ethernaut Level 5 Token
+## Ethernaut Level 2 Fallout
 https://ethernaut.openzeppelin.com/
 
 ## Read through through audit report and 
@@ -19,4 +19,10 @@ Read through the following audit report and write a detailed description about o
 
 
 https://code4rena.com/reports/2022-11-canto
+
+
+# Optional Assignment
+Hint: This level can be exploited with one of the attack vectors we went over in session 2.
+## Ethernaut Level 5 Token
+https://ethernaut.openzeppelin.com/
 
